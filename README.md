@@ -2,7 +2,7 @@
 
 ### QuickStart
 1. Clone from Github
-git clone 
+git clone https://github.com/okonkwoaustin/Emt
 
 2. Install project dependencies
 `pip install -r requirements.txt`
